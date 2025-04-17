@@ -8,5 +8,10 @@
 - 🌡️ Real-time temperature in Celsius  
 - 🌤️ Weather description with condition icons  
 - 💧 Humidity and 🌬️ wind speed display  
-- 📱 Modern and clean UI with smooth performance  
 - 🔄 Live data fetched using OkHttp and displayed instantly
+
+##🛠Built With
+
+- Java & Android Studio  
+- OpenWeatherMap API  
+- OkHttp for API calls  
