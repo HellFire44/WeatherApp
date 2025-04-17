@@ -31,3 +31,17 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# User-specific configuration files
+*.swp
+.idea/.name
+
+# Android emulator data
+*.avd/
+*.idea/
+
+# Gradle Wrapper
+gradle-wrapper.jar
+
+# Gradle caches
+.gradle/
